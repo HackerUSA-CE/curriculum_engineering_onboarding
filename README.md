@@ -13,12 +13,13 @@ Resources for new curriculum engineers to begin creating class material
 - Lead the lesson with a hook
 - Scaffold the class content
 - Design a Lesson Companion
-
+- Guide the instructor in your Instructor Guide
 
 ## Lesson 3
 - Create an activity
-- Build a lesson comprehensive quiz
-- Guide the instructor in your Instructor Guide
+- Build a comprehensive quiz for the lesson
+- HackerU Git and GitHub conventions
+- Submitting a pull request
 
 DON'T FORGET
 - Slide Templates
